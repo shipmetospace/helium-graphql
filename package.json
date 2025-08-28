@@ -13,7 +13,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "spectaql": "^1.2.1"
+    "spectaql": "^1.5.12"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^2.6.2",
